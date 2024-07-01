@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity3">
+
+    <TextView
+        android:layout_width="389dp"
+        android:layout_height="551dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="158dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginBottom="21dp"
+        android:text="Basic Operations[1]
+Operation	Function
+ +	 Addition
+ -	 Subtraction (not negative)
+ x	 Multiplication (There is often an x key for variables as well)
+ ÷	 Division
+ ^	 Raise to the power of
+ yx	 y to the power of x
+ √ or Sqrt	 Square root
+ ex	 Exponential
+ sin	 Sine function
+ sin-1	 Inverse sine function
+ cos	 Cosine function
+ cos-1	 Inverse cosine function
+ tan	 Tangent function
+ tan-1	 Inverse tangent function
+ ln	 Log to the base of e
+ log	 Log base 10
+ (-) or neg	 Denotes negative number
+ ()	 Parentheses for denoting order of operations
+ π	 Inserts pi
+ Mode	 Switches between degrees and radians
+ " />
+
+    <TextView
+        android:layout_width="227dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="86dp"
+        android:layout_marginTop="58dp"
+        android:layout_marginEnd="98dp"
+        android:layout_marginBottom="612dp"
+        android:gravity="center"
+        android:text="buttons_and_icons_used" />
+
+
+
+
+</RelativeLayout>
